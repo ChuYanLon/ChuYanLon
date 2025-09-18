@@ -1,8 +1,20 @@
-<p align="center">
-  <img alt="General Stats" height="175" src="https://github-readme-stats.vercel.app/api?username=ChuYanLon&show_icons=true&hide=prs,contribs&show=prs_merged,reviews&theme=gruvbox&hide_title=true&hide_border=true"/>
-  <img alt="Languages Used" height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChuYanLon&layout=compact&theme=gruvbox&langs_count=10&exclude_repo=home.files&hide_title=true&hide_border=true"/>
-</p>
-<hr/>
-<p align="center">
-  See my <a href="https://observeroftime.github.io/portfolio/">portfolio</a> for more.
-</p>
+## Hi there 🥷🏻
+
+[![Folke's github stats](https://github-readme-stats.vercel.app/api?username=folke&count_private=true&show_icons=true)](https://github.com/folke)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=folke&hide=php)](https://github.com/folke)
+
+<!--
+**folke/folke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
