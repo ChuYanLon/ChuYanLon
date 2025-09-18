@@ -1,11 +1,11 @@
 ## Hi there 🥷🏻
 
-[![Folke's github stats](https://github-readme-stats.vercel.app/api?username=folke&count_private=true&show_icons=true)](https://github.com/folke)
+[![ChuYanLon's github stats](https://github-readme-stats.vercel.app/api?username=ChuYanLon&count_private=true&show_icons=true)](https://github.com/ChuYanLon)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=folke&hide=php)](https://github.com/folke)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChuYanLon&hide=php)](https://github.com/ChuYanLon)
 
 <!--
-**folke/folke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ChuYanLon/ChuYanLon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
